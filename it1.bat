@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 REM Prejmenujte tento soubor na moje.bat a doplnte o potrebne prikazy
 REM 1. Vypnuti vypisu informaci o provadenych prikazech, zmena barvy (bile pozadi, cerny text)
 @echo off
@@ -50,6 +42,6 @@ REM 18. Vymazat slozku ZALOHA pokud existuje (vcetne podslozek)
 if exist ZALOHA rmdir ZALOHA /S /Q
 REM Uklid
 color
-title Pøíkazový øádek
+title PÅ™Ã­kazovÃ½ Å™Ã¡dek
 f:
 cd \
